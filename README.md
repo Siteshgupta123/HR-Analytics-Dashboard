@@ -111,9 +111,15 @@
 - DAX: KPI and measure creation
 - Excel (CSV): Raw dataset (HR data only)
 
+----------------------
 
+## Thank You! 💙
 
+Thanks for checking out my project! If you found it useful, please consider:  
+[![GitHub stars](https://github.com/Siteshgupta123/HR-Analytics-Dashboard)](https://github.com/Siteshgupta123)  
+⭐ **Starring** the repo  
+🐛 **Reporting** issues  
+🛠 **Contributing** improvements  
 
-
-
-
+Coded with ❤️ by **Sitesh Gupta**  
+🔗 www.linkedin.com/in/guptasitesh | 💌 Email-guptasitesh05@email.com
